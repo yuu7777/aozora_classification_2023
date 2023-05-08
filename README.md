@@ -1,4 +1,4 @@
-# aozora_colassification_2023
+# aozora_classification_2023
 https://github.com/shibuiwilliam/aozora_classification を参考に構築しました, 一部tensorflowのverに伴い記述を変更しています.
 
 青空文庫から, 作者1人につき20作品を学習データとし, 1作品をテストデータとして\
