@@ -6,3 +6,5 @@ https://github.com/shibuiwilliam/aozora_classification を参考に構築しま�
 character-level CNN を tensorflow + keras で実装し, 作者推定を実現
 
 対象の20人の作者は "sakusya_list.txt" に記載
+
+精度は 17/20 (エポック数 5)
